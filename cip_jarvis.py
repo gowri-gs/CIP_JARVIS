@@ -259,7 +259,7 @@ class MainThread(QThread):
                             speak('Email has been sent successfully')
                     else:
                             email = "sruthigowri000@gmail.com"
-                            password = "Gowri@20002k"
+                            password = "AAAAAAAAAAA"
                             sendemail = "sruthigowri2000@gmail.com";
                             message=self.query
 
